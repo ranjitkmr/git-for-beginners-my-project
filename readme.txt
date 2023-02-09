@@ -1,4 +1,4 @@
 Hello, This is my first git project
-Author: Ranjit
+Author: Firstname-Ranjit
 Feature: AddFacebookPage
 
