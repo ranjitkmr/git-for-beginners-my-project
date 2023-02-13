@@ -1,4 +1,4 @@
-Hello, This is my first git project
+Welcome to the "Git for Beginners" MyProject!
 Author: Firstname-Ranjit Kumar
 Feature: AddFacebookPage
 
